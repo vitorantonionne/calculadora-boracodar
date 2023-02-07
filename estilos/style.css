@@ -50,6 +50,10 @@ body {
     font-size: 36px;
 }
 
+.ph-equals {
+    font-size: 22px;
+}
+
 #teclas {
     display: flex;
     flex-direction: column;
